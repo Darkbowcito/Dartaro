@@ -1,32 +1,31 @@
-# Hey there, I'm Dartaro 👋
-### `Software Developer | Scripting & Automation`
+# Dartaro
+`Software Developer | Systems & Scripting`
 
-```text
-> whoami
-dartaro@dev:~\$ Building custom automation scripts, browser utilities & PC tools.
+```bash
+\$ whoami
+dartaro@dev:~\$ Building automation tools, browser utilities & low-level scripts.
 ```
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working on **custom automation scripts & browser extensions**
-- 🌱 Exploring **Backend architectures, C++ & Linux environments**
-- ⚡ Fun fact: **Debugging is 90% staring at the screen until it works**
-- 💬 Ask me about **Scripting, Modding, or PC optimization**
+### Overview
+- Working on custom automation scripts, browser extensions, and system utilities.
+- Focused on backend architectures, C++, Python, and Linux environments.
+- Interested in performance optimization, reverse engineering, and open-source tooling.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** `Python` • `JavaScript` • `C++` • `HTML5` • `CSS3`
-* **Frameworks & Runtime:** `Node.js` • `React` • `Bash`
-* **Tools & OS:** `Git` • `Linux` • `VS Code` • `Docker`
+### Stack & Environment
+- **Languages:** Python, C++, JavaScript, Bash, SQL
+- **Runtime & Web:** Node.js, HTML5, CSS3
+- **Tools & OS:** Git, Linux, Docker, VS Code
 
 ---
 
-### 📌 Featured Focus
+### Current Focus
 
-| Project Type | Description | Status |
+| Area | Scope | Status |
 | :--- | :--- | :--- |
-| **Browser Scripts** | Custom DOM manipulation & ad-filtering utilities | `Active` |
-| **System Tweaks** | Windows/Linux performance & registry automation | `Maintained` |
-| **Game Modding** | Client-side configs, custom scripts & resource packs | `Ongoing` |
+| **Browser Automation** | DOM manipulation, network filtering & userscripts | `Active` |
+| **System Optimization** | OS tweaks, shell scripting & resource management | `Maintained` |
+| **Modding & Tooling** | Client-side configurations & custom game scripts | `Ongoing` |
